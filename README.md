@@ -17,14 +17,14 @@ A Website to display work of an Artist
 
 
 ## **Application**
-### Book Search Page
-![book search page](./assets/images/pic1.png)
+### Commercial Page
+![Commercial](./src/assets/images/pic1.png)
 
-### Saved Books Page
-![saved books page](./assets/images/pic2.png)
+### Landscape Page
+![Landscape](./src/assets/images/pic1.png)
 
 ## **Deployed:**
-[Google Book Search](https://agustinxmtz.github.io/photo-port/)
+[Photo-Port](https://agustinxmtz.github.io/photo-port/)
 
 
 ***
